@@ -1,7 +1,6 @@
 # Changelog
 
 
- - [Security] Added validation for Tor bridge list as reported on HackerOne by z3phyrus. ([#57599](https://github.com/brave/brave-browser/issues/57599))
  - [Security] Fixed Widevine install prompt as reported on HackerOne by syarif07. ([#57649](https://github.com/brave/brave-browser/issues/57649))
  - Fixed NoScript MV3 extension incorrectly being migrated to its Brave-hosted MV2 equivalent. ([#57760](https://github.com/brave/brave-browser/issues/57760))
  - Fixed multiple shield icons being displayed in PWA windows after going fullscreen on macOS. ([#57349](https://github.com/brave/brave-browser/issues/57349))
