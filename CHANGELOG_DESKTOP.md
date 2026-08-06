@@ -1,6 +1,5 @@
 # Changelog
 
-## [1.93.132](https://github.com/brave/brave-browser/releases/tag/v1.93.132)
 
  - [Security] Added validation for Tor bridge list as reported on HackerOne by z3phyrus. ([#57599](https://github.com/brave/brave-browser/issues/57599))
  - [Security] Fixed Widevine install prompt as reported on HackerOne by syarif07. ([#57649](https://github.com/brave/brave-browser/issues/57649))
