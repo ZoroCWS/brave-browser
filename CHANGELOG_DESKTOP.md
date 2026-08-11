@@ -1,4 +1,4 @@
-# Changelog
+#log
 
 
  - [Security] Added validation for Tor bridge list as reported on HackerOne by z3phyrus. ([#57599](https://github.com/brave/brave-browser/issues/57599))
