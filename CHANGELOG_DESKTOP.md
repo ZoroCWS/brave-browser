@@ -1,4 +1,4 @@
-# Changelog
+#log
 
 
  - [Security] Fixed Widevine install prompt as reported on HackerOne by syarif07. ([#57649](https://github.com/brave/brave-browser/issues/57649))
